@@ -1,0 +1,452 @@
+{
+    "hats": [
+        {
+            "category": "hats",
+            "details": {
+                "id": "1",
+                "title": "bamboo hat",
+                "price": 3720.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-1.jpeg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "2",
+                "title": "Reliance fez cap",
+                "price": 999.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-2.jpeg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "3",
+                "title": "Panic Pakin",
+                "price": 6372.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-3.jpeg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "4",
+                "title": "Bama elegance",
+                "price": 1463.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-8.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "5",
+                "title": "fusion authentic",
+                "price": 5378.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-4.jpeg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "6",
+                "title": "Ijebu elegance",
+                "price": 11010.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-13.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "7",
+                "title": "Borno pride",
+                "price": 3392.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-6.jpg"
+            }
+        },
+        {
+            "type": "Hausa cap",
+            "details": {
+                "id": "8",
+                "title": "Maiduguri pride",
+                "price": 1349.00
+            },
+            "image": {
+                "url": "./photos/hats/hats-10.jpg"
+            }
+        }
+    ],
+    "female": [
+        {
+            "category": "female",
+            "details": {
+                "id": "1",
+                "title": "African queen",
+                "price": 7520.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-10.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "2",
+                "title": "Executive lady",
+                "price": 9720.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-1.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "3",
+                "title": "Boss lady",
+                "price": 4810.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-7.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "4",
+                "title": "Lady Teresa",
+                "price": 7520.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-8.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "5",
+                "title": "Badass",
+                "price": 520.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-5.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "6",
+                "title": "Mona lisa couture",
+                "price": 3840.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-6.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "7",
+                "title": "Jump suit",
+                "price": 2075.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-2.jpeg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "8",
+                "title": "Baby girl shii",
+                "price": 3320.00
+            },
+            "image": {
+                "url": "./photos/female/female-wear-9.jpeg"
+            }
+        }
+    ],
+    "kids": [
+        {
+            "category": "kids",
+            "details": {
+                "id": "1",
+                "title": "Awesome me",
+                "price": 12485.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-1.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "2",
+                "title": "Awesome me",
+                "price": 5295.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-2.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "3",
+                "title": "mama's pride",
+                "price": 4895.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-7.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "4",
+                "title": "princess",
+                "price": 6682.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-12.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "5",
+                "title": "Be Incredible",
+                "price": 8597.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-8.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "6",
+                "title": "Authentic 4 kids",
+                "price": 4185.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-3.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "7",
+                "title": "Cinderella",
+                "price": 8855.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-10.jpeg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "8",
+                "title": "daddy's pride",
+                "price": 12485.00
+            },
+            "image": {
+                "url": "./photos/kids/kids-4.jpeg"
+            }
+        }
+    ],
+    "male": [
+        {
+            "category": "male",
+            "details": {
+                "id": "1",
+                "title": "cool guy",
+                "price": 485.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-1.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "2",
+                "title": "corporate bro",
+                "price": 8587.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-2.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "3",
+                "title": "tech bro",
+                "price": 1524.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-3.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "4",
+                "title": "CEO couture",
+                "price": 84450.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-4.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "5",
+                "title": "hoodie man",
+                "price": 2585.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-6.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "6",
+                "title": "Casanova",
+                "price": 7218.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-8.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "7",
+                "title": "beardie",
+                "price": 5485.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-9.jpeg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "8",
+                "title": "naija bro",
+                "price": 2457.00
+            },
+            "image": {
+                "url": "./photos/male/male-wear-10.jpeg"
+            }
+        }
+    ],
+    "sneaker": [
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "1",
+                "title": "Nigga raw",
+                "price": 34285.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-3.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "2",
+                "title": "Queen footie",
+                "price": 6525.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-6.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "3",
+                "title": "Nike Air",
+                "price": 57847.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-1.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "4",
+                "title": "Authentic",
+                "price": 4510.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-5.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "5",
+                "title": "cool 4 kids",
+                "price": 555.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-7.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "6",
+                "title": "All star",
+                "price": 7521.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-4.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "7",
+                "title": "Sneaker",
+                "price": 5510.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-2.jpeg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "8",
+                "title": "Authentic",
+                "price": 4555.00
+            },
+            "image": {
+                "url": "./photos/sneakers/sneakers-8.jpeg"
+            }
+        }
+    ]
+}
