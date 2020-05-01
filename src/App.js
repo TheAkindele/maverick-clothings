@@ -1,17 +1,17 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom'
+import { BrowserRouter } from 'react-router-dom'
 import './App.scss';
+import Homepage from './components/Homepage'
 
 function App() {
   return (
-    <div className="app">
-      <BrowserRouter>
-        <NavBar />
-        <Switch>
+    <BrowserRouter>
+      <div className="app">
 
-        </Switch>
-      </BrowserRouter>
-    </div>
+        <Homepage />
+
+      </div>
+    </BrowserRouter>
   );
 }
 

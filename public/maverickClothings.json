@@ -1,0 +1,479 @@
+{
+    "hats": [
+        {
+            "category": "hats",
+            "details": {
+                "id": "1",
+                "title": "bamboo hat",
+                "price": 3720.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247958/maverick%20clothings/hats/hats-1_itjhob.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "2",
+                "title": "Reliance fez cap",
+                "price": 999.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247960/maverick%20clothings/hats/hats-2_vp5h8q.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "3",
+                "title": "Panic Pakin",
+                "price": 6372.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247960/maverick%20clothings/hats/hats-3_hbijj5.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "4",
+                "title": "Bama elegance",
+                "price": 1463.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247970/maverick%20clothings/hats/hats-8_tsogeg.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "5",
+                "title": "fusion authentic",
+                "price": 5378.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247961/maverick%20clothings/hats/hats-4_oyzwec.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "6",
+                "title": "Ijebu elegance",
+                "price": 11010.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247967/maverick%20clothings/hats/hats-13_pzouza.jpg"
+            }
+        },
+        {
+            "category": "hats",
+            "details": {
+                "id": "7",
+                "title": "Borno pride",
+                "price": 3392.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247962/maverick%20clothings/hats/hats-6_rcltdy.jpg"
+            }
+        },
+        {
+            "type": "Hausa cap",
+            "details": {
+                "id": "8",
+                "title": "Maiduguri pride",
+                "price": 1349.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247969/maverick%20clothings/hats/hats-10_vchges.jpg"
+            }
+        }
+    ],
+    "female": [
+        {
+            "category": "female",
+            "details": {
+                "id": "1",
+                "title": "African queen",
+                "price": 7520.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238186/maverick%20clothings/female/female-wear-10_r5mnet.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "2",
+                "title": "Executive lady",
+                "price": 9720.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238162/maverick%20clothings/female/female-wear-1_uggmky.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "3",
+                "title": "Boss lady",
+                "price": 4810.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238194/maverick%20clothings/female/female-wear-7_iedlsj.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "4",
+                "title": "Lady Teresa",
+                "price": 7520.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238197/maverick%20clothings/female/female-wear-8_xnxxrb.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "5",
+                "title": "Badass",
+                "price": 520.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238185/maverick%20clothings/female/female-wear-5_gryp4g.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "6",
+                "title": "Mona lisa couture",
+                "price": 3840.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238202/maverick%20clothings/female/female-wear-6_bymvce.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "7",
+                "title": "Jump suit",
+                "price": 2075.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238188/maverick%20clothings/female/female-wear-2_szysjo.jpg"
+            }
+        },
+        {
+            "category": "female",
+            "details": {
+                "id": "8",
+                "title": "Baby girl shii",
+                "price": 3320.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588238202/maverick%20clothings/female/female-wear-9_e4lvam.jpg"
+            }
+        }
+    ],
+    "kids": [
+        {
+            "category": "kids",
+            "details": {
+                "id": "1",
+                "title": "Awesome me",
+                "price": 12485.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247974/maverick%20clothings/kids/kids-1_aiaxn6.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "2",
+                "title": "Awesome me",
+                "price": 5295.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247976/maverick%20clothings/kids/kids-2_fnclk6.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "3",
+                "title": "mama's pride",
+                "price": 4895.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247976/maverick%20clothings/kids/kids-7_kllpee.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "4",
+                "title": "princess",
+                "price": 6682.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247976/maverick%20clothings/kids/kids-12_qy03eu.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "5",
+                "title": "Be Incredible",
+                "price": 8597.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247977/maverick%20clothings/kids/kids-8_qrr41q.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "6",
+                "title": "Authentic 4 kids",
+                "price": 4185.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247977/maverick%20clothings/kids/kids-3_tyyyay.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "7",
+                "title": "Cinderella",
+                "price": 8855.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247974/maverick%20clothings/kids/kids-10_k0e6sf.jpg"
+            }
+        },
+        {
+            "category": "kids",
+            "details": {
+                "id": "8",
+                "title": "daddy's pride",
+                "price": 12485.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247978/maverick%20clothings/kids/kids-4_f7elxf.jpg"
+            }
+        }
+    ],
+    "male": [
+        {
+            "category": "male",
+            "details": {
+                "id": "1",
+                "title": "cool guy",
+                "price": 485.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247988/maverick%20clothings/male/male-wear-1_mm4y4v.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "2",
+                "title": "corporate bro",
+                "price": 8587.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247991/maverick%20clothings/male/male-wear-2_gijibk.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "3",
+                "title": "tech bro",
+                "price": 1524.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247988/maverick%20clothings/male/male-wear-3_zcxpxp.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "4",
+                "title": "CEO couture",
+                "price": 84450.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247989/maverick%20clothings/male/male-wear-4_jwol3s.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "5",
+                "title": "hoodie man",
+                "price": 2585.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247988/maverick%20clothings/male/male-wear-6_omdll5.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "6",
+                "title": "Casanova",
+                "price": 7218.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247991/maverick%20clothings/male/male-wear-8_gduvpi.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "7",
+                "title": "beardie",
+                "price": 5485.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247989/maverick%20clothings/male/male-wear-9_uap66t.jpg"
+            }
+        },
+        {
+            "category": "male",
+            "details": {
+                "id": "8",
+                "title": "naija bro",
+                "price": 2457.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247987/maverick%20clothings/male/male-wear-10_vvdui2.jpg"
+            }
+        }
+    ],
+    "sneaker": [
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "1",
+                "title": "Nigga raw",
+                "price": 34285.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247997/maverick%20clothings/sneakers/sneakers-3_zakrun.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "2",
+                "title": "Queen footie",
+                "price": 6525.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588248001/maverick%20clothings/sneakers/sneakers-6_eh6qbz.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "3",
+                "title": "Nike Air",
+                "price": 57847.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247996/maverick%20clothings/sneakers/sneakers-1_yvnoub.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "4",
+                "title": "Authentic",
+                "price": 4510.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247996/maverick%20clothings/sneakers/sneakers-5_agvfw5.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "5",
+                "title": "cool 4 kids",
+                "price": 555.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588248002/maverick%20clothings/sneakers/sneakers-7_wa5inn.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "6",
+                "title": "All star",
+                "price": 7521.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588248001/maverick%20clothings/sneakers/sneakers-4_cg2yce.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "7",
+                "title": "Sneaker",
+                "price": 5510.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247997/maverick%20clothings/sneakers/sneakers-2_ihk9qk.jpg"
+            }
+        },
+        {
+            "category": "sneaker",
+            "details": {
+                "id": "8",
+                "title": "Authentic",
+                "price": 4555.00
+            },
+            "image": {
+                "url": "https://res.cloudinary.com/maverickhats/image/upload/v1588247997/maverick%20clothings/sneakers/sneakers-8_gg93uk.jpg"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "id": 1,
+            "title": "hats",
+            "imageUrl": "https://res.cloudinary.com/maverickhats/image/upload/v1588340216/maverick%20clothings/cover/hats-cover_fgnuax.jpg"
+        },
+        {
+            "id": 2,
+            "title": "kids",
+            "imageUrl": "https://res.cloudinary.com/maverickhats/image/upload/v1588247902/maverick%20clothings/cover/kids-cover_vzjvzl.jpg"
+        },
+        {
+            "id": 3,
+            "title": "sneakers",
+            "imageUrl": "https://res.cloudinary.com/maverickhats/image/upload/v1588247904/maverick%20clothings/cover/sneakers-cover_tcbho0.jpg"
+        },
+        {
+            "id": 4,
+            "title": "female",
+            "imageUrl": "https://res.cloudinary.com/maverickhats/image/upload/v1588247909/maverick%20clothings/cover/female-wear-cover_lvktlb.jpg"
+        },
+        {
+            "id": 5,
+            "title": "male",
+            "imageUrl": "https://res.cloudinary.com/maverickhats/image/upload/c_scale,h_275/v1588247903/maverick%20clothings/cover/male-wear-cover_nqdpmv.jpg"
+        }
+    ]
+}

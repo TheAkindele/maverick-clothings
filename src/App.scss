@@ -1,0 +1,137 @@
+//////// Universal ////////
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+/////////homepage component///////
+.homepage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    //background-color: pink;
+}
+
+//////Navbar component//////////
+.navbar{
+    //width: 100%;
+
+    .nav-left {
+        width: 100%;
+        border: 1px solid red;
+        color: yellow;
+        //margin-left: 70px;
+    }
+    
+    .nav-right{
+        width: 50%;
+    
+        .list {
+            width: 100%;
+            padding: 5px;
+    
+            .nav{
+                color: red;
+                margin: 0 10px;
+            
+                &:hover{
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+////////// Home preview component ///////////
+.home-preview {
+    width: 90%;
+    margin: 40px auto;
+    display: flex;
+    flex-wrap: wrap;
+    //justify-content: space-between;
+
+    .col{
+        min-width: 27%;
+        height: 270px;
+        margin: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        //background-image: url();
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+
+        .inner{
+            background-color: white;
+            opacity: 70%;
+            text-transform: uppercase;
+            padding: 5px;
+            text-align: center;
+            align-self: center;
+        }
+    }
+    
+}
+@media screen and (max-width: 700px) {
+        .home-preview{
+            width: 90%;
+            display: grid;
+            grid-template-columns: 1fr;
+
+            .col{
+                min-width: 80%;
+            }
+        }
+}
+
+/////////// Shop Folder //////////
+.shop{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px , 1fr));
+}
+
+.preview{
+    text-align: center;
+    margin: 15px auto;
+    //border: 1px solid red;
+
+    h2{
+        padding: 10px;
+    }
+
+    .card-box{
+        display: flex;
+
+        .card{
+            width: 300px;
+            height: 210px;
+            margin: 0 7px;
+    
+            img{
+                height: 100%;
+            }
+        }
+    }
+
+    @media only screen and (max-width: 700px){
+        .card-box{
+            display: flex;
+            flex-flow: row wrap;
+            width: 90%;
+            margin: 0 auto;
+            
+            .card{
+                width: 47%;
+                margin: 5px auto;
+            }
+        }
+    }
+}
+
+
+

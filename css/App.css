@@ -1,1 +1,147 @@
-/* No CSS *//*# sourceMappingURL=App.css.map */
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.homepage {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+}
+
+.navbar .nav-left {
+  width: 100%;
+  border: 1px solid red;
+  color: yellow;
+}
+
+.navbar .nav-right {
+  width: 50%;
+}
+
+.navbar .nav-right .list {
+  width: 100%;
+  padding: 5px;
+}
+
+.navbar .nav-right .list .nav {
+  color: red;
+  margin: 0 10px;
+}
+
+.navbar .nav-right .list .nav:hover {
+  text-decoration: none;
+}
+
+.home-preview {
+  width: 90%;
+  margin: 40px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.home-preview .col {
+  min-width: 27%;
+  height: 270px;
+  margin: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.home-preview .col .inner {
+  background-color: white;
+  opacity: 70%;
+  text-transform: uppercase;
+  padding: 5px;
+  text-align: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+@media screen and (max-width: 700px) {
+  .home-preview {
+    width: 90%;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .home-preview .col {
+    min-width: 80%;
+  }
+}
+
+.shop {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(300px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.preview {
+  text-align: center;
+  margin: 15px auto;
+}
+
+.preview h2 {
+  padding: 10px;
+}
+
+.preview .card-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.preview .card-box .card {
+  width: 300px;
+  height: 210px;
+  margin: 0 7px;
+}
+
+.preview .card-box .card img {
+  height: 100%;
+}
+
+@media only screen and (max-width: 700px) {
+  .preview .card-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+    width: 90%;
+    margin: 0 auto;
+  }
+  .preview .card-box .card {
+    width: 47%;
+    margin: 5px auto;
+  }
+}
+/*# sourceMappingURL=App.css.map */
