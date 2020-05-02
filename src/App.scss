@@ -133,5 +133,57 @@
     }
 }
 
+/////Product container///////
+.product-container {
+    width: 85%;
+    text-align: center;
+    margin: 10px auto;
+    border: 1px solid red;
+
+    .card-container{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        width: 100%;
+        margin: 0 auto;
+        border: 1px solid green;
+
+        .card{
+            width: 290px;
+            height: 280px;
+            margin: 5px 10px;
+            border: 1px solid red;
+
+            img{
+                height: 75%;
+            }
+
+            .card-body{
+                display: flex;
+                flex-direction: column;
+                height: 20%;
+                padding-top: 0;
+                background-color: grey;
+
+                .card-title{
+                    padding: 0;
+                }
+                .card-subtitle{
+                    display: flex;
+                    justify-content: space-between;
+
+                    .card-link{
+                        padding: 1px 6px;
+                        color: green;
+                        cursor: pointer;
+                        border: 1px solid yellow;
+                    }
+                }
+            }
+        }
+    }
+    
+}
+
 
 

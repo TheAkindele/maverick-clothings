@@ -35,6 +35,7 @@ class Shop extends Component {
     render() {
         //console.log('state= ', this.state)
         //console.log('state male= ', this.state.males)
+        console.log('props= ', this.props)
         return (
             <div className='shop'>
                 <div className="each">

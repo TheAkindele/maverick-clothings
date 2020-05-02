@@ -9,10 +9,11 @@ class Homepreview extends Component {
 
     componentDidMount() {
         axios('./maverickClothings.json')
-            .then(res => {
-                //console.log('covers= ', res.data.covers)
+            //.then(res => res.json())
+            .then(response => {
+                console.log('covers= ', response.data.covers)
                 this.setState({
-                    covers: res.data.covers
+                    covers: response.data.covers
                 })
             })
     }
@@ -20,12 +21,13 @@ class Homepreview extends Component {
     render() {
         //console.log('state= ', this.state.covers)
         const covers = this.state.covers
+        //console.log('homepreview= ', this.props)
         return (
             <div className='home-preview'>
                 {
                     covers && covers.map(({ title, imageUrl, id }) => (
                         <div className="col" key={id} style={{ backgroundImage: `url(${imageUrl})` }}>
-                            <Link to={`/shop/:${title}`}><div className="inner">
+                            <Link to={`/shop/${title}`}><div className="inner">
                                 <h3>{title}</h3>
                                 <h6>shop now</h6>
                             </div></Link>
